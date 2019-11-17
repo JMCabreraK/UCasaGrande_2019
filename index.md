@@ -1,4 +1,4 @@
-## Hello, deja el show, Mr. JM. Cabrera K.
+## Hello, deja el show, Mr. Cabrera
 
 You can use the [editor on GitHub](https://github.com/JMCabreraK/UCasaGrande_2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
